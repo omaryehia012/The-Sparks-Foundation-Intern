@@ -1,4 +1,9 @@
-# Task-1-Prediction-using-Supervised-ML
-Here I have created the prediction model using the supervised ML and I have predicted the model using the linear regression
+# Task1
+### Prediction using Supervised ML
+-  Predict the percentage of an student based on the no. of study hours.
 
-● Use R or Python or perform this task
+-  What will be predicted score if a student studies for 9.25 hrs/ day?
+
+- This is a simple linear regression task as it involves just 2 variables.
+
+- Dataset : http://bit.ly/w-data
